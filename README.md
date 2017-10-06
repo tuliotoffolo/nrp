@@ -3,7 +3,7 @@
 ## Nurse Rostering Problem Solver
 
 Written by Túlio Toffolo (instance reader by Haroldo Santos).  
-Note that the current code-base employs the formulation from <a href="doi.org/10.1007/s10479-014-1594-6" target="_blank">Santos, Toffolo, Gomes and Ribas (2016)</a>.
+Note that the current code-base employs the formulation from <a href="https://doi.org/10.1007/s10479-014-1594-6" target="_blank">Santos, Toffolo, Gomes and Ribas (2016)</a>.
 
 More information: <a href="https://benchmark.gent.cs.kuleuven.be/nrp" target="_blank">https://benchmark.gent.cs.kuleuven.be/nrp</a>
 
