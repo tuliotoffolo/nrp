@@ -11,7 +11,7 @@ Please address all contributions, suggestions, and inquiries to the project admi
 
 ## Latest improvements
 
-The current version includes generates subproblems by employing three decomposition approaches, based on the *Time*, *Nurse* and *Shift* indexes of decision variables **x**. The subproblems are solved in a random order or following certain priorities. This resulted in quicker convergence than previous algorithms, in addition to improvements over some best known solutions.
+The current version generates subproblems by employing three decomposition approaches, based on the *Time*, *Nurse* and *Shift* indexes of decision variables **X**. The subproblems are solved in a random order or following certain priorities. This resulted in quicker convergence than previous algorithms, in addition to improvements over some best known solutions.
 
 ## Getting Started
 
