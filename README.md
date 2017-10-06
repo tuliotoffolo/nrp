@@ -2,8 +2,8 @@
 
 ## Nurse Rostering Problem Solver
 
-Written by Túlio Toffolo and Haroldo Santos.
-Note that the current code-base employs the formulation from <i>Santos, Toffolo, Gomes and Ribas (2016)</i>.
+Written by Túlio Toffolo (instance reader by Haroldo Santos).  
+Note that the current code-base employs the formulation from [*Santos, Toffolo, Gomes and Ribas (2016)*](doi.org/10.1007/s10479-014-1594-6).
 
 More information: https://benchmark.gent.cs.kuleuven.be/nrp
 
@@ -15,12 +15,12 @@ The current version includes generates subproblems by employing three decomposit
 
 ## Getting Started
 
-The source code includes the decomposition-based heuristic for the NRP.
+The source code includes the decomposition-based heuristic for the NRP.  
 Note that specific input files are required to execute the solver (available at https://benchmark.gent.cs.kuleuven.be/nrp).
 
 Usage examples:
 
-- ./nurse -dat models/long01.dat -lp models/long01.lp.gz -ini initial_solutions/long01.sol -out output/long01
+- ./nurse -dat models/long01.dat -lp models/long01.lp.gz -ini initial_solutions/long01.sol -out output/long01  
 - ./nurse -dat models/long01.dat -lp models/long01.lp.gz -ini initial_solutions/long01.sol -out output/long01 -lb 197
 
 ## Requirements
